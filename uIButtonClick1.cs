@@ -13,6 +13,11 @@ public class uIButtonClick : MonoBehaviour {
 	{ 
 		Application.LoadLevel ("Untitled");
 	}
+	
+	public void testcangku()
+	{
+		print("Yes");
+	}
 
 
 }
