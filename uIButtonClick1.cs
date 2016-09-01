@@ -13,6 +13,8 @@ public class uIButtonClick : MonoBehaviour {
 	{ 
 		Application.LoadLevel ("Untitled");
 	}
+	
+	//这是注释
 
 
 }
