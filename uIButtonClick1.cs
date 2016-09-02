@@ -17,4 +17,6 @@ public class uIButtonClick : MonoBehaviour {
 	//这是注释,fenzhi111,2 3
 
 	//zenmhuishi
+
+	//ai
 }
