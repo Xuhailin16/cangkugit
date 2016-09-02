@@ -20,4 +20,9 @@ public class colider : MonoBehaviour {
 	//	GameObject.Find ("Directional light").transform.GetComponent<Light> ().enabled = false;
 		Destroy (gameObject);
 	}
+
+	void testcangku()
+	{
+		print ("hah");
+	}
 }
